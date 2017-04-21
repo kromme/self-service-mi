@@ -103,8 +103,8 @@ function(input, output) {
       analyse,
       paste0('Aantal klanten: ', aantal),
       paste0('Aantal actief: ', round(actief*100,0),'%'),
-      paste0('Ratio hogere conversie t.o.v. gemiddelde: ', round(ratio_mean,2)),
-      paste0('Ratio hogere conversie t.o.v. lagere groepen: ', round(ratio_other,2)),
+      paste0('Ratio hogere conversie/churn t.o.v. gemiddelde: ', round(ratio_mean,2)),
+      paste0('Ratio hogere conversie/churn t.o.v. lagere groepen: ', round(ratio_other,2)),
       
       
       sep = '<br/>'))

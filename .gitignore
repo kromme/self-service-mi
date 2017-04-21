@@ -8,6 +8,18 @@
 # Example code in package build process
 *-Ex.R
 
+# data
+00 Data/*
+01 Models/*
+
+# all 00 files
+00 get data.R
+02 churn classification.R
+03 frequent drinkers classification.R
+04 frequent eaters classification.R
+05 has newsletter classification.R
+06 wellness classification.R
+
 # Output files from R CMD build
 /*.tar.gz
 
@@ -31,3 +43,4 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+.Rproj.user
