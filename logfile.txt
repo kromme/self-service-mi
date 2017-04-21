@@ -1,0 +1,77 @@
+2017-04-21 15:24:46;New start;
+2017-04-21 15:24:46;top:10;analyse:
+2017-04-21 15:24:46;top:10;analyse:1 - Churn
+2017-04-21 15:27:19;New start;
+2017-04-21 15:27:19;top:10;analyse:
+2017-04-21 15:27:20;top:10;analyse:1 - Churn
+2017-04-21 15:27:23;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:27:27;top:10;analyse:1 - Churn
+2017-04-21 15:32:22;New start;
+2017-04-21 15:32:22;top:10;analyse:
+2017-04-21 15:32:22;top:10;analyse:1 - Churn
+2017-04-21 15:32:46;New start;
+2017-04-21 15:32:46;top:10;analyse:
+2017-04-21 15:32:46;top:10;analyse:1 - Churn
+2017-04-21 15:34:26;New start;
+2017-04-21 15:34:26;top:10;analyse:
+2017-04-21 15:34:26;top:10;analyse:1 - Churn
+2017-04-21 15:34:45;top:20;analyse:1 - Churn
+2017-04-21 15:34:49;top:20;analyse:2 - Frequent Drinkers
+2017-04-21 15:34:53;top:20;analyse:1 - Churn
+2017-04-21 15:34:55;top:20;analyse:2 - Frequent Drinkers
+2017-04-21 15:35:01;top:20;analyse:1 - Churn
+2017-04-21 15:35:04;top:20;analyse:2 - Frequent Drinkers
+2017-04-21 15:39:28;New start;
+2017-04-21 15:39:28;top:10;analyse:
+2017-04-21 15:39:28;top:10;analyse:1 - Churn
+2017-04-21 15:39:30;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:39:32;top:10;analyse:1 - Churn
+2017-04-21 15:39:36;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:39:38;top:10;analyse:1 - Churn
+2017-04-21 15:40:09;New start;
+2017-04-21 15:40:09;top:10;analyse:
+2017-04-21 15:40:09;top:10;analyse:1 - Churn
+2017-04-21 15:40:43;New start;
+2017-04-21 15:40:43;top:10;analyse:
+2017-04-21 15:40:43;top:10;analyse:1 - Churn
+2017-04-21 15:41:22;top:10;analyse:
+2017-04-21 15:41:22;top:10;analyse:1 - Churn
+2017-04-21 15:41:25;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:42:09;New start;
+2017-04-21 15:42:09;top:10;analyse:
+2017-04-21 15:42:10;top:10;analyse:1 - Churn
+2017-04-21 15:42:12;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:42:14;top:10;analyse:1 - Churn
+2017-04-21 15:42:17;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:42:37;top:10;analyse:1 - Churn
+2017-04-21 15:46:12;New start;
+2017-04-21 15:46:12;top:10;analyse:
+2017-04-21 15:46:12;top:10;analyse:1 - Churn
+2017-04-21 15:46:16;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:46:39;top:10;analyse:
+2017-04-21 15:46:39;top:10;analyse:1 - Churn
+2017-04-21 15:47:03;New start;
+2017-04-21 15:47:03;top:10;analyse:
+2017-04-21 15:47:03;top:10;analyse:1 - Churn
+2017-04-21 15:47:14;New start;
+2017-04-21 15:47:14;top:10;analyse:
+2017-04-21 15:47:14;top:10;analyse:1 - Churn
+2017-04-21 15:47:49;top:10;analyse:
+2017-04-21 15:47:50;top:10;analyse:1 - Churn
+2017-04-21 15:48:08;top:10;analyse:
+2017-04-21 15:48:08;top:10;analyse:1 - Churn
+2017-04-21 15:49:34;top:10;analyse:
+2017-04-21 15:49:35;top:10;analyse:1 - Churn
+2017-04-21 15:49:39;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:49:45;top:10;analyse:1 - Churn
+2017-04-21 15:51:06;top:10;analyse:
+2017-04-21 15:51:06;top:10;analyse:1 - Churn
+2017-04-21 15:51:28;New start;
+2017-04-21 15:51:28;top:10;analyse:
+2017-04-21 15:51:28;top:10;analyse:1 - Churn
+2017-04-21 15:53:27;top:10;analyse:2 - Frequent Drinkers
+2017-04-21 15:53:30;top:10;analyse:1 - Churn
+2017-04-21 15:53:43;top:20;analyse:1 - Churn
+2017-04-21 15:53:44;top:30;analyse:1 - Churn
+2017-04-21 15:54:25;top:20;analyse:1 - Churn
+2017-04-21 15:55:49;top:20;analyse:2 - Frequent Drinkers
